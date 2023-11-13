@@ -27,5 +27,3 @@ Mit folgenden Risiken sind während der Arbeit zu rechnen:
 | Fehler im Camunda-BPMN                                   | Mittel                 | Mehrfache Kontrolle der genutzten Symbole, Benutzern des BPMN-Fachbuches |
 | Zeitaufwand unterschätzt, Abgabe Termine nicht einhalten | Gering                 | Genauen Zeitplan vor Projektbeginn erstellen                                        |
 | Probleme, dass die Pipeline zu Github Pages nicht funktioniert                                                         | Gering                       | Ausweichen auf Github selbst                                                                                    |
-
-Damit die Semesterarbeit eine ordentliche Struktur erhält, werde ich mit Kategorien und Tags arbeiten, welche als Header in den Markdowns plaziert sind. Die gesamte Dokumentation wird auf Github Pages gehostet, für welches ich ein Jeykill Template ausgewählt habe.

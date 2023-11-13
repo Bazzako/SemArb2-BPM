@@ -30,4 +30,4 @@ Das Thema meiner zweiten Semesterarbeit ist das aktualisieren und optimieren des
 
 ### Dokumente
 
-[Einreichungsformular](..\..\ressources\dokumente\Einreichungsformular_Dennis_Buathong_2_Semester_1.0.pdf)
+[Einreichungsformular](..\..\ressources\dokumente\Einreichungsformular_Dennis_Buathong_2_Semester_1.0_new.pdf)

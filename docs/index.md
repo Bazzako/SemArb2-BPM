@@ -7,7 +7,7 @@ permalink: /
 
 # Willkommen!
 
-Hier findest du die Dokukentation meiner 2 - Semesterarbeiten BPM.
+Hier findest du die Dokumentation meiner 2 - Semesterarbeiten BPM.
 
 Diese Webseite wird von Github Pages gehosted.
 

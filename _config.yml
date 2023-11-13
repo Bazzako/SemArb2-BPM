@@ -36,7 +36,7 @@ aux_links_new_tab: true
 
 # technical site stuff
 url: "https://bazzako.github.io/SemArb2-BPM/"
-logo: "/ressources/bilder/dennis.jpg"
+logo: "/ressources/bilder/snmzne04.png"
 favicon_ico: "/ressources/bilder/dennis.jpg"
 remote_theme: just-the-docs/just-the-docs
 plugins:

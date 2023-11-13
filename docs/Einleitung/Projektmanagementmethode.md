@@ -6,7 +6,7 @@ nav_order: 4
 
 ---
 
-# Projektmanagement Methode
+# Projektmanagement-Methode
 
 ## Was ist Kanban
 

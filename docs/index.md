@@ -7,5 +7,6 @@ permalink: /
 
 # Willkommen!
 
-Dies ist mein Begleitdokument zu meiner Semesterarbeit.
-Ich freue mich Sie hier näher an meine Semesterabreit zu bringen!
+Hier findest du die Dokukentation meiner 2 - Semesterarbeiten BPM.
+Diese Webseite wird von Github Pages gehosted.
+Sie wird durch meine Einträge im Gitrepo stetig aktualisiert und erneuert.

@@ -31,6 +31,7 @@ Während meiner Semesterarbeit werde ich mit der Projektmanagement-Methode *Kanb
 
 Für die Analyse, Verbesserung und Erneuerung des Prozesses, werde ich *Lean Six Sigma* verwenden.
 *Lean Six Sigma* ist eine systematische Vorgehensweise, die Prozesse aus Sicht des Kunden optimiert. Gemeint sind Dienstleistungen, Produkte und Prozesse, die so angelegt sind, dass sie den Anforderungen des Kunden gerecht werden.
+
 Was sind die Ziele von *Lean Six Sigma* ? Diese Qualitätsmanagement Methode konzentriert sich darauf, Komplexität eines Prozesses zu reduzieren, die Kundenzufriedenheit zu steigern, die Arbeitszyklen zu verkürzen, Verschwendungen zu eliminieren, die Effizienz zu steigern und Defekte und Fehler zu minimieren. 
 
 Diese Ziele werde mittels *Lean* und *DMAIC-Zyklus* erreicht. 

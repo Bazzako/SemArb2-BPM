@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3. Einleitung
+title: 3. Hauptteil
 has_children: true
 nav_order: 3
 ---

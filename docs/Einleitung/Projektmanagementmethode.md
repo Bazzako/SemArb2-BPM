@@ -34,7 +34,8 @@ Für die Analyse, Verbesserung und Erneuerung des Prozesses, werde ich *Lean Six
 
 Was sind die Ziele von *Lean Six Sigma* ? Diese Qualitätsmanagement Methode konzentriert sich darauf, Komplexität eines Prozesses zu reduzieren, die Kundenzufriedenheit zu steigern, die Arbeitszyklen zu verkürzen, Verschwendungen zu eliminieren, die Effizienz zu steigern und Defekte und Fehler zu minimieren. 
 
-Diese Ziele werde mittels *Lean* und *DMAIC-Zyklus* erreicht. 
+Diese Ziele werde mittels *Lean* und *DMAIC-Zyklus* erreicht.
+
 *D - Define, M - Measure, A - Analyze, I - Improve, C - Control* 
 
 **Define:** In der *Define-Phase* wird genau festgelegt, welchen Zielzustand man für den zu optimierenden Prozess erwartet. Weiter werden Vermutungen angestellt, wieso dieser Zustand noch nicht erreicht ist, und legt den Ressourceneinsatz (Mitarbeiter, Zeit, Geld, Materialien, etc.) fest. Hierfür werden vor allem Planungs- und Analysemethoden eingesetzt.

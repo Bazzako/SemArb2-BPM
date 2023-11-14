@@ -7,8 +7,7 @@ permalink: /
 
 # Willkommen!
 
-Hier findest du die Dokumentation meiner 2 - Semesterarbeiten BPM.
+Hier findest du die Dokumentation der 2. Semester Arbeit über BPM von Dennis Buathong.
 
 Diese Webseite wird von Github Pages gehosted.
-
-Sie wird durch meine Einträge im Gitrepo stetig aktualisiert und erneuert.
+Sie wird durch meine Einträge im Gitrepo stetig aktualisiert und erneuert. Ich wünsche dir viel Spass beim Lesen!

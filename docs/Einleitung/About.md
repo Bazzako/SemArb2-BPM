@@ -31,7 +31,7 @@ Das Thema meiner zweiten Semesterarbeit ist das aktualisieren und optimieren des
 
 ### Zeitplan
 
-Das ist der grobe Zeitplan, um den genauen Zeitplan einzusehen, muss das Projektmanagement im Github geöffnet werden. Dieser ist oben rechts verlinkt:
+Das ist der grobe Zeitplan (aus dem Einreichungsformular), um den genauen Zeitplan einzusehen, muss das Projektmanagement im Github geöffnet werden. Dieser ist oben rechts verlinkt:
 
 | **Datum**           | **Aktivität**                                              | **Wer**         | **An**          |
 | ------------------- | ---------------------------------------------------------- | --------------- | --------------- |

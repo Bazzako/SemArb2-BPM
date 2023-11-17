@@ -14,6 +14,7 @@ Kanban ist eine agile Projektmanagement-Methode, die auf der Visualisierung von 
 Kanban kann auch sehr gut für kleine Projekte an welchen nur eine Person arbeitet verwendet werden.
 
 ![Scrum Sprint](../../ressources/bilder/Kanban-board.jpg)
+
 [Quelle](../Quellenverzeichnis/index.md#Kanban-Board)
 ## Was ist Scrum
 

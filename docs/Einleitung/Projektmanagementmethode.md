@@ -13,7 +13,7 @@ nav_order: 4
 Kanban ist eine agile Projektmanagement-Methode, die auf der Visualisierung von Arbeitsabläufen basiert. Es handelt sich um ein System von Karten, die die Arbeit darstellen, die zu erledigen sind, sowie den Fortschritt, der bereits gemacht wurde. Kanban ermöglicht es Teams, ihre Arbeit zu organisieren, zu visualisieren und zu optimieren, indem es den Fokus auf die Steuerung des Workflows und die Vermeidung von Überlastung legt. Kanban-Boards zeigen den aktuellen Stand der Arbeit an und helfen, den Arbeitsfluss zu verbessern, indem sie Engpässe aufdecken und Verbesserungspotential aufzeigen. Kanban fördert auch die Zusammenarbeit im Team und die kontinuierliche Verbesserung des Arbeitsprozesses.
 Kanban kann auch sehr gut für kleine Projekte an welchen nur eine Person arbeitet verwendet werden.
 
-![Scrum Sprint](../../ressources/bilder/Kanban-Board.jpg)
+![Kanban Board](../../ressources/bilder/Kanban-Board.jpg)
 
 [Quelle](../Quellenverzeichnis/index.md#Kanban-Board)
 ## Was ist Scrum
@@ -23,6 +23,8 @@ Scrum ist ein agiles Projektmanagement-Framework, das für die Entwicklung von P
 *Scrum Master*: Er unterstützt die Umsetzung von Scrum im Team und last but not least das selbstorganisierte Entwicklungsteam.
 Artefakte umfassen das *Product Backlog*, das die Anforderungen enthält.
 *Das Sprint Backlog*, welches die Aufgaben für einen Sprint definiert und das *Inkrement*, das am Ende eines Sprints erstellt wird. Ereignisse wie *Sprint Planning*, *Daily Scrum*,*Sprint-Review* und *Sprint Retrospective*, strukturieren den Entwicklungsprozess. Scrum fördert Zusammenarbeit, Transparenz und die Anpassungsfähigkeit an sich ändernde Anforderungen, um kontinuierliche Verbesserungen in der Produktentwicklung zu ermöglichen.
+
+![Scrum Methode](../../ressources/bilder/Scrum-Schema.jpg)
 
 ## Kanban und Scrum in meiner Semesterarbeit
 

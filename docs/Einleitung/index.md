@@ -7,4 +7,4 @@ nav_order: 2
 
 # Einleitung
 
-In der Einleitung werden die Tools und Produkte beschrieben, welche für die Semesterarbeit verwendet werden und relevant sind.
+Im Kapitel Einleitung werden die Tools und Produkte beschrieben, welche für die Semesterarbeit verwendet werden und relevant sind.

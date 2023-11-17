@@ -26,6 +26,7 @@ Artefakte umfassen das *Product Backlog*, das die Anforderungen enthält.
 
 ![Scrum Methode](../../ressources/bilder/Scrum-Schema.jpg)
 
+[Quelle](../Quellenverzeichnis/index.md#Scrum-Methode)
 ## Kanban und Scrum in meiner Semesterarbeit
 
 Während meiner Semesterarbeit werde ich mit der Projektmanagement-Methode *Kanban* und *Scrum* arbeiten. Kanban ist in Github bereits integriert, in welchen man Boards und Tasks selbst erstellen kann. So habe ich in Form von "Issues" meine Arbeiten, welche zu erledigen sind, aufgelistet. Mit Kanban kann ich sehr effizient arbeiten und sehe stetig meine Fortschritte. Mittels der verschieden Stati, sehe ich, an welchen Themen ich gerade arbeite oder welche abgeschlossen wurden. In Github Projekts kann man für Kanban verschiedene Ansichten erstellen. So habe ich verschiedene Gantt-Diagramme erstellt, in welchen man den ganzen Projektfortschritt verfolgen und überprüfen kann. Um die Arbeit voranzutreiben, werde ich Scrum-Sprints arbeiten, welche auch Voraussetzungen der Semesterarbeit sind, womit ich meine Zwischenziele auswerten und reflektieren kann. Während der Semesterarbeit gibt es insgesamt 3 Sprints.

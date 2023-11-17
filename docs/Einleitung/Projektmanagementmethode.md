@@ -13,6 +13,8 @@ nav_order: 4
 Kanban ist eine agile Projektmanagement-Methode, die auf der Visualisierung von Arbeitsabläufen basiert. Es handelt sich um ein System von Karten, die die Arbeit darstellen, die zu erledigen sind, sowie den Fortschritt, der bereits gemacht wurde. Kanban ermöglicht es Teams, ihre Arbeit zu organisieren, zu visualisieren und zu optimieren, indem es den Fokus auf die Steuerung des Workflows und die Vermeidung von Überlastung legt. Kanban-Boards zeigen den aktuellen Stand der Arbeit an und helfen, den Arbeitsfluss zu verbessern, indem sie Engpässe aufdecken und Verbesserungspotential aufzeigen. Kanban fördert auch die Zusammenarbeit im Team und die kontinuierliche Verbesserung des Arbeitsprozesses.
 Kanban kann auch sehr gut für kleine Projekte an welchen nur eine Person arbeitet verwendet werden.
 
+![Scrum Sprint](../../ressources/bilder/Kanban-board.jpg)
+[Quelle](../Quellenverzeichnis/index.md#Kanban-Board)
 ## Was ist Scrum
 
 Scrum ist ein agiles Projektmanagement-Framework, das für die Entwicklung von Produkten, insbesondere in der Softwarebranche, verwendet wird. Es basiert auf drei Schlüsselelementen: Rollen, Artefakte und Ereignisse. Die Hauptrollen sind:
@@ -23,7 +25,7 @@ Artefakte umfassen das *Product Backlog*, das die Anforderungen enthält.
 
 ## Kanban und Scrum in meiner Semesterarbeit
 
-Während meiner Semesterarbeit werde ich mit der Projektmanagement-Methode *Kanban* und *Scrum* arbeiten. Kanban ist in Github bereits integriert, in welchen man Boards und Tasks selbst erstellen kann. So habe ich in Form von "Issues" meine Arbeiten, welche zu erledigen sind, aufgelistet. Mit Kanban kann ich sehr effizient arbeiten und sehe stetig meine Fortschritte. Mittels der verschieden Stati, sehe ich, an welchen Themen ich gerade arbeite oder welche abgeschlossen wurden. In Github Projekts kann man für Kanban verschiedene Ansichten erstellen. So habe ich ein Gantt-Diagramm erstellt, in welchem man den ganzen Projektfortschritt verfolgen und überprüfen kann. Um die Arbeit voranzutreiben, werde ich Scrum einsetzen und Sprints einbauen, womit ich meine Zwischenziele auswerten und reflektieren kann. 
+Während meiner Semesterarbeit werde ich mit der Projektmanagement-Methode *Kanban* und *Scrum* arbeiten. Kanban ist in Github bereits integriert, in welchen man Boards und Tasks selbst erstellen kann. So habe ich in Form von "Issues" meine Arbeiten, welche zu erledigen sind, aufgelistet. Mit Kanban kann ich sehr effizient arbeiten und sehe stetig meine Fortschritte. Mittels der verschieden Stati, sehe ich, an welchen Themen ich gerade arbeite oder welche abgeschlossen wurden. In Github Projekts kann man für Kanban verschiedene Ansichten erstellen. So habe ich verschiedene Gantt-Diagramme erstellt, in welchen man den ganzen Projektfortschritt verfolgen und überprüfen kann. Um die Arbeit voranzutreiben, werde ich Scrum-Sprints arbeiten, welche auch Voraussetzungen der Semesterarbeit sind, womit ich meine Zwischenziele auswerten und reflektieren kann. Während der Semesterarbeit gibt es insgesamt 3 Sprints.
 
 ## Lean Six Sigma
 

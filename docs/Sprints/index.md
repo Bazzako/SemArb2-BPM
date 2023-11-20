@@ -13,4 +13,4 @@ Aus den Sprints sind Reflexionen zu entnehmen, wie es mir während des Sprintzyk
 
 ![Scrum Sprint](../../ressources/bilder/rsz_review.png)
 
-[Quelle](../Quellenverzeichnis/index.md#Sprint)
+[Quelle](../Quellenverzeichnis/index.md#sprint)

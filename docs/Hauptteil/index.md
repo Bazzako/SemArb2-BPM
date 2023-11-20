@@ -11,4 +11,4 @@ Im Hauptteil wird alles Relevante für die Praxisarbeit dokumentiert.
 
 ![BPMN](../../ressources/bilder/bpm.png)
 
-[Quelle](../Quellenverzeichnis/index.md#Hauptteil)
+[Quelle](../Quellenverzeichnis/index.md#hauptteil)

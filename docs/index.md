@@ -14,4 +14,4 @@ Sie wird durch meine Einträge im Gitrepo stetig aktualisiert und erneuert.
 
 Ich wünsche dir viel Spass beim Lesen!
 
-![Welcome](../../ressources/bilder/welcome.jpg)
+![Welcome](../../ressources/bilder/Welcome.jpg)

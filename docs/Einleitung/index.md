@@ -9,6 +9,6 @@ nav_order: 2
 
 Im Kapitel Einleitung werden die Tools und Produkte beschrieben, welche für die Semesterarbeit verwendet werden und relevant sind.
 
-![First](../../ressources/bilder/First_first.jpg)
+![First](../../ressources/bilder/First.jpg)
 
 [Quelle](../Quellenverzeichnis/index.md#Einleitung)

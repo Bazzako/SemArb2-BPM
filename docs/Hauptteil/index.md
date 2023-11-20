@@ -9,6 +9,6 @@ nav_order: 3
 
 Im Hauptteil wird alles Relevante für die Praxisarbeit dokumentiert.
 
-![BPMN](../../ressources/bilder/BPMN.jpg)
+![BPMN](../../ressources/bilder/bpm.png)
 
 [Quelle](../Quellenverzeichnis/index.md#Hauptteil)

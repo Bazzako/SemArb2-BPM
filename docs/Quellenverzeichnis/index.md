@@ -45,5 +45,5 @@ Im Quellenverzeichnis findet man die Quellen der genutzten Bilder und Quellen de
 [Luppe](https://www.flaticon.com/free-icon/loupe_428094?term=magnifying+glass&page=1&position=9&origin=search&related_id=428094)
 
 ### Abschluss
-[Review](https://timelesshrsolutions.files.wordpress.com/2016/12/employee-performance-review.jpg)
+[Review](https://www.flaticon.com/free-icon/check_11510892?term=check&page=1&position=93&origin=search&related_id=11510892)
 

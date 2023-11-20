@@ -9,7 +9,7 @@ nav_order: 5
 
 Im Quellenverzeichnis findet man die Quellen der genutzten Bilder und Quellen der genutzten Informationen.
 
-![Luppe](../../ressources/bilder/Luppe.jpg)
+![Luppe](../../ressources/bilder/loupe.png)
 
 [Quelle](../Quellenverzeichnis/index.md#Quellenverzeichnis-Logo)
 
@@ -42,7 +42,7 @@ Im Quellenverzeichnis findet man die Quellen der genutzten Bilder und Quellen de
 [BPM](https://movan.vn/wp-content/uploads/sites/156/2020/05/bpm.png)
 
 ### Quellenverzeichnis-Logo
-[Luppe](https://cdn1.vectorstock.com/i/1000x1000/12/55/magnifying-glass-doodle-color-icon-drawing-sketch-vector-33421255.jpg)
+[Luppe](https://www.flaticon.com/free-icon/loupe_428094?term=magnifying+glass&page=1&position=9&origin=search&related_id=428094)
 
 ### Abschluss
 [Review](https://timelesshrsolutions.files.wordpress.com/2016/12/employee-performance-review.jpg)

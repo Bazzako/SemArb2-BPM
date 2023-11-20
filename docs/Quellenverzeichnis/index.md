@@ -9,7 +9,7 @@ nav_order: 5
 
 Im Quellenverzeichnis findet man die Quellen der genutzten Bilder und Quellen der genutzten Informationen.
 
-![Luppe](../../ressources/Bilder/Luppe.jpg)
+![Luppe](../../ressources/bilder/Luppe.jpg)
 
 [Quelle](../Quellenverzeichnis/index.md#Quellenverzeichnis-Logo)
 

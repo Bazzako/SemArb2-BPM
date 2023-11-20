@@ -15,6 +15,9 @@ Im Quellenverzeichnis findet man die Quellen der genutzten Bilder und Quellen de
 
 # Bilder
 
+### Startseite
+[Welcome](https://as1.ftcdn.net/v2/jpg/03/04/76/60/1000_F_304766094_oGfiNaNzXOXli1xFLLeqYgZjBABsUB29.jpg)
+
 ### Einleitung
 [First thinks first](https://t3.ftcdn.net/jpg/06/24/88/42/360_F_624884237_NEYWEUEu226ddKKhmQZJASwvTifMUmHW.jpg)
 

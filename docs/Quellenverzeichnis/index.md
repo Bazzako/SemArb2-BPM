@@ -42,3 +42,6 @@ Im Quellenverzeichnis findet man die Quellen der genutzten Bilder und Quellen de
 [Luppe](https://cdn1.vectorstock.com/i/1000x1000/12/55/magnifying-glass-doodle-color-icon-drawing-sketch-vector-33421255.jpg)
 
 
+### Abschluss
+[Review](https://timelesshrsolutions.files.wordpress.com/2016/12/employee-performance-review.jpg)
+

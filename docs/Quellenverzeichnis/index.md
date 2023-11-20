@@ -19,7 +19,7 @@ Im Quellenverzeichnis findet man die Quellen der genutzten Bilder und Quellen de
 [Welcome](https://www.picng.com/upload/welcome/png_welcome_54228.png)
 
 ### Einleitung
-[First thinks first](https://t3.ftcdn.net/jpg/06/24/88/42/360_F_624884237_NEYWEUEu226ddKKhmQZJASwvTifMUmHW.jpg)
+[First thinks first](https://cdn2.vectorstock.com/i/1000x1000/05/61/light-bulb-glowing-sketch-draw-vector-35850561.jpg)
 
 ### ISO-9001
 [ISO 9001](https://reciprocity.com/wp-content/uploads/2021/10/faq_iso9001_featured-img_730x270_small.jpg)
@@ -36,7 +36,7 @@ Im Quellenverzeichnis findet man die Quellen der genutzten Bilder und Quellen de
 [Lean Six Sigma](https://www.georgiaruralhealth.org/wp-content/uploads/2022/01/lean-6-sigma.png)
 
 ### Sprint
-[Sprint](https://banner2.cleanpng.com/20180612/akf/kisspng-agile-faculty-practical-strategies-for-managing-r-values-5b1fb6c02e5606.9524710215288050561898.jpg)
+[Sprint](https://cdn-icons-png.flaticon.com/512/5065/5065388.png)
 
 ### Hauptteil
 [BPM](https://movan.vn/wp-content/uploads/sites/156/2020/05/bpm.png)

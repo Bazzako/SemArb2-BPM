@@ -36,7 +36,7 @@ Im Quellenverzeichnis findet man die Quellen der genutzten Bilder und Quellen de
 [Lean Six Sigma](https://www.georgiaruralhealth.org/wp-content/uploads/2022/01/lean-6-sigma.png)
 
 ### Sprint
-[Sprint](https://www.flaticon.com/free-icon/review_4727519?term=sprint&page=1&position=15&origin=search&related_id=47275)
+[Sprint](https://www.flaticon.com/free-icon/review_4727519?term=sprint&page=1&position=15&origin=search&related_id=4727519)
 
 ### Hauptteil
 [BPM](https://movan.vn/wp-content/uploads/sites/156/2020/05/bpm.png)

@@ -16,4 +16,4 @@ Ich wünsche dir viel Spass beim Lesen!
 
 ![Welcome](../ressources/bilder/Willkommen.jpg)
 
-[Quelle](/docs/Quellenverzeichnis/index.md#startseite)
+[Quelle](./Quellenverzeichnis/index.md#startseite)

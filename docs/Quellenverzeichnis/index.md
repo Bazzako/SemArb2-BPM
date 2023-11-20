@@ -11,7 +11,7 @@ Im Quellenverzeichnis findet man die Quellen der genutzten Bilder und Quellen de
 
 ![Luppe](../../ressources/bilder/rsz_loupe.png)
 
-[Quelle](../Quellenverzeichnis/index.md#Quellenverzeichnis-Logo)
+[Quelle](#Quellenverzeichnis-Logo)
 
 # Bilder
 

@@ -36,7 +36,7 @@ Im Quellenverzeichnis findet man die Quellen der genutzten Bilder und Quellen de
 [Lean Six Sigma](https://www.georgiaruralhealth.org/wp-content/uploads/2022/01/lean-6-sigma.png)
 
 ### Sprint
-[Sprint](https://cdn0.iconfinder.com/data/icons/leto-blue-project-management/64/__sprint-512.png)
+[Sprint](https://www.kindpng.com/picc/m/153-1531477_two-arrows-that-represent-a-scrum-sprint-and.png)
 
 ### Hauptteil
 [BPM](https://movan.vn/wp-content/uploads/sites/156/2020/05/bpm.png))

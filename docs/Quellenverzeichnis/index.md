@@ -16,7 +16,7 @@ Im Quellenverzeichnis findet man die Quellen der genutzten Bilder und Quellen de
 # Bilder
 
 ### Startseite
-[Welcome](https://as1.ftcdn.net/v2/jpg/03/04/76/60/1000_F_304766094_oGfiNaNzXOXli1xFLLeqYgZjBABsUB29.jpg)
+[Welcome](https://www.picng.com/upload/welcome/png_welcome_54228.png)
 
 ### Einleitung
 [First thinks first](https://t3.ftcdn.net/jpg/06/24/88/42/360_F_624884237_NEYWEUEu226ddKKhmQZJASwvTifMUmHW.jpg)
@@ -36,10 +36,10 @@ Im Quellenverzeichnis findet man die Quellen der genutzten Bilder und Quellen de
 [Lean Six Sigma](https://www.georgiaruralhealth.org/wp-content/uploads/2022/01/lean-6-sigma.png)
 
 ### Sprint
-[Sprint](https://www.kindpng.com/picc/m/153-1531477_two-arrows-that-represent-a-scrum-sprint-and.png)
+[Sprint](https://banner2.cleanpng.com/20180612/akf/kisspng-agile-faculty-practical-strategies-for-managing-r-values-5b1fb6c02e5606.9524710215288050561898.jpg)
 
 ### Hauptteil
-[BPM](https://movan.vn/wp-content/uploads/sites/156/2020/05/bpm.png))
+[BPM](https://movan.vn/wp-content/uploads/sites/156/2020/05/bpm.png)
 
 ### Quellenverzeichnis-Logo
 [Luppe](https://cdn1.vectorstock.com/i/1000x1000/12/55/magnifying-glass-doodle-color-icon-drawing-sketch-vector-33421255.jpg)

@@ -21,11 +21,12 @@ Im Quellenverzeichnis findet man die Quellen der genutzten Bilder und Quellen de
 ### Einleitung
 [First thinks first](https://cdn2.vectorstock.com/i/1000x1000/05/61/light-bulb-glowing-sketch-draw-vector-35850561.jpg)
 
-### ISO-9001
-[ISO 9001](https://www.flaticon.com/free-icon/quality-control_3712183?term=iso+9001&page=1&position=6&origin=search&related_id=3712183)
+### About
+[Ide_Symbol](https://www.flaticon.com/free-icon/implementation_5656091?term=process&page=2&position=3&origin=search&related_id=5656091)
 
 ### Goals
 [Goal](https://images.squarespace-cdn.com/content/v1/5760269145bf21440773e26c/1532517734122-G2XKNP3V3X2SG2CC9Z95/Goals.jpg?format=2500w)
+
 ### Kanban-Board
 [Kanban-Board](https://www.ingenieur.de/wp-content/uploads/2019/01/Kanban-Board-illustriert_B74336643_bakhtiarzein-e1547564483745.jpg)
 

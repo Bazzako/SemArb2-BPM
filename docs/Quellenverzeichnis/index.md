@@ -42,6 +42,9 @@ Im Quellenverzeichnis findet man die Quellen der genutzten Bilder und Quellen de
 ### Hauptteil
 [BPM](https://movan.vn/wp-content/uploads/sites/156/2020/05/bpm.png)
 
+#### Define
+[Define](https://www.flaticon.com/free-icon/defining_4129452?term=define&page=1&position=3&origin=search&related_id=4129452)
+
 ### Quellenverzeichnis-Logo
 [Luppe](https://www.flaticon.com/free-icon/loupe_428094?term=magnifying+glass&page=1&position=9&origin=search&related_id=428094)
 

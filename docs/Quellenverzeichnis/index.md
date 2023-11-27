@@ -54,3 +54,7 @@ Im Quellenverzeichnis findet man die Quellen der genutzten Bilder und Quellen de
 ## Abschluss
 [Review](https://www.flaticon.com/free-icon/check_11510892?term=check&page=1&position=93&origin=search&related_id=11510892)
 
+# Dokumentation
+
+## Lean Six Sigma
+[DMAIC]https://six-sigma-deutschland.de/was-ist-lean-six-sigma/#:~:text=Lean%20Six%20Sigma%20ist%20eine%20Methode%2C%20die%20vor%20allem%20in,Verschwendungen%20vermieden%20und%20Kosten%20eingespart.

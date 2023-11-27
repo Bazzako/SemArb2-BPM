@@ -45,6 +45,9 @@ Im Quellenverzeichnis findet man die Quellen der genutzten Bilder und Quellen de
 ### Define
 [Define](https://www.flaticon.com/free-icon/defining_4129452?term=define&page=1&position=3&origin=search&related_id=4129452)
 
+### Measure
+[Measure](https://www.flaticon.com/free-icon/design-process_10068780?term=measure+process&related_id=10068780)
+
 ## Quellenverzeichnis-Logo
 [Luppe](https://www.flaticon.com/free-icon/loupe_428094?term=magnifying+glass&page=1&position=9&origin=search&related_id=428094)
 

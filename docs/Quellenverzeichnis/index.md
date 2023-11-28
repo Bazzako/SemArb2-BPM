@@ -48,6 +48,9 @@ Im Quellenverzeichnis findet man die Quellen der genutzten Bilder und Quellen de
 ### Measure
 [Measure](https://www.flaticon.com/free-icon/design-process_10068780?term=measure+process&related_id=10068780)
 
+### Analyze
+[Analyze](https://www.flaticon.com/free-icon/evaluation_4301684?term=analyze&related_id=4301684)
+
 ## Quellenverzeichnis-Logo
 [Luppe](https://www.flaticon.com/free-icon/loupe_428094?term=magnifying+glass&page=1&position=9&origin=search&related_id=428094)
 

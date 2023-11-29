@@ -60,4 +60,4 @@ Im Quellenverzeichnis findet man die Quellen der genutzten Bilder und Quellen de
 # Hilfsmittel
 
 ## Lean Six Sigma
-[DMAIC]https://six-sigma-deutschland.de/was-ist-lean-six-sigma/#:~:text=Lean%20Six%20Sigma%20ist%20eine%20Methode%2C%20die%20vor%20allem%20in,Verschwendungen%20vermieden%20und%20Kosten%20eingespart.
+[DMAIC](https://six-sigma-deutschland.de/was-ist-lean-six-sigma/#:~:text=Lean%20Six%20Sigma%20ist%20eine%20Methode%2C%20die%20vor%20allem%20in,Verschwendungen%20vermieden%20und%20Kosten%20eingespart.)

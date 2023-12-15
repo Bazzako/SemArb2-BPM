@@ -43,8 +43,7 @@ Im Quellenverzeichnis findet man die Quellen der genutzten Bilder und Quellen de
 [BPM](https://movan.vn/wp-content/uploads/sites/156/2020/05/bpm.png)
 
 ### Define
-[Define](https://www.flaticon.com/free-icon/defining_4129452?term=define&page=1&position=3&origin=search&related_id=4129452)
-
+[Define](https://www.flaticon.com/free-icon/defining_4129401?term=define&related_id=4129401)
 ### Measure
 [Measure](https://www.flaticon.com/free-icon/design-process_10068780?term=measure+process&related_id=10068780)
 

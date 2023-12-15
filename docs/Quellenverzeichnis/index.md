@@ -51,6 +51,12 @@ Im Quellenverzeichnis findet man die Quellen der genutzten Bilder und Quellen de
 ### Analyze
 [Analyze](https://www.flaticon.com/free-icon/evaluation_4301684?term=analyze&related_id=4301684)
 
+### Improve
+[Improve](https://www.flaticon.com/free-icon/improvement_3930474?term=improve&related_id=3930474)
+
+### Camunda
+[Camunda](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF1x0JIOa3NrvFVosgH1NwkBRiKujgvOlOnw&usqp=CAU)
+
 ## Quellenverzeichnis-Logo
 [Luppe](https://www.flaticon.com/free-icon/loupe_428094?term=magnifying+glass&page=1&position=9&origin=search&related_id=428094)
 

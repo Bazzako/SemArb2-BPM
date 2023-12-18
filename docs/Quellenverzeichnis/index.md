@@ -66,6 +66,9 @@ Im Quellenverzeichnis findet man die Quellen der genutzten Bilder und Quellen de
 
 ## Lean Six Sigma
 [DMAIC](https://six-sigma-deutschland.de/was-ist-lean-six-sigma/#:~:text=Lean%20Six%20Sigma%20ist%20eine%20Methode%2C%20die%20vor%20allem%20in,Verschwendungen%20vermieden%20und%20Kosten%20eingespart.)
-
+## Camunda-BPMN
+[Praxishandbuch BPMN](https://www.hanser-elibrary.com/doi/epdf/10.3139/9783446461123.fm)
 ## Camunda-Symbole
 [Symbole](http://www.bpmb.de/images/BPMN2_0_Poster_DE.pdf)
+## ChatGPT
+[ChatGPT](https://chat.openai.com/)

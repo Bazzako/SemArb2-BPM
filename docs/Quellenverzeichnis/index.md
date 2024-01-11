@@ -56,6 +56,9 @@ Im Quellenverzeichnis findet man die Quellen der genutzten Bilder und Quellen de
 ### Camunda
 [Camunda](https://blog.it-frankfurt.com/posts/hello-camunda-8/img/cover.png)
 
+### Control
+[Control](https://www.flaticon.com/free-icon/process_4149678?term=control&related_id=4149678)
+
 ## Quellenverzeichnis-Logo
 [Luppe](https://www.flaticon.com/free-icon/loupe_428094?term=magnifying+glass&page=1&position=9&origin=search&related_id=428094)
 

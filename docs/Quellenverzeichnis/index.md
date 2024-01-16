@@ -73,5 +73,7 @@ Im Quellenverzeichnis findet man die Quellen der genutzten Bilder und Quellen de
 [Praxishandbuch BPMN](https://www.hanser-elibrary.com/doi/epdf/10.3139/9783446461123.fm)
 ## Camunda-Symbole
 [Symbole](http://www.bpmb.de/images/BPMN2_0_Poster_DE.pdf)
+## Camunda-Azure
+[Camunda in Azure](https://camunda.com/blog/2020/05/anyone-can-run-camunda-bpm-on-azure-in-ten-minutes/)
 ## ChatGPT
 [ChatGPT](https://chat.openai.com/)

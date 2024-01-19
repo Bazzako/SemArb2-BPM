@@ -54,7 +54,7 @@ Im Quellenverzeichnis findet man die Quellen der genutzten Bilder und Quellen de
 [Improve](https://www.flaticon.com/free-icon/improvement_3930474?term=improve&related_id=3930474)
 
 ### Camunda
-[Camunda](https://blog.it-frankfurt.com/posts/hello-camunda-8/img/cover.png)
+[Camunda](https://logovtor.com/wp-content/uploads/2020/09/camunda-logo-vector.png)
 
 ### Control
 [Control](https://www.flaticon.com/free-icon/process_4149678?term=control&related_id=4149678)

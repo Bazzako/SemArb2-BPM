@@ -14,6 +14,6 @@ Sie wird durch meine Einträge im Gitrepo stetig aktualisiert und erneuert.
 
 Ich wünsche dir viel Spass beim Lesen!
 
-![Welcome](../ressources/bilder/welcome.png)
+![Welcome](../ressources/bilder/rsz_welcome.png)
 
 [Quelle](./Quellenverzeichnis/index.md#startseite)

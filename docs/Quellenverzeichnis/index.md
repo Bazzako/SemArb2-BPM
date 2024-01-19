@@ -16,16 +16,16 @@ Im Quellenverzeichnis findet man die Quellen der genutzten Bilder und Quellen de
 # Bilder
 
 ## Startseite
-[Welcome](https://www.picng.com/upload/welcome/png_welcome_54228.png)
+[Welcome](https://www.flaticon.com/free-icon/welcome_4245497?term=welcome&related_id=4245497)
 
 ## Einleitung
-[First thinks first](https://cdn2.vectorstock.com/i/1000x1000/05/61/light-bulb-glowing-sketch-draw-vector-35850561.jpg)
+[First thinks first](https://www.flaticon.com/free-icon/idea_2436837?term=idea&page=1&position=37&origin=search&related_id=2436837)
 
 ## About
 [Ide_Symbol](https://www.flaticon.com/free-icon/implementation_5656091?term=process&page=2&position=3&origin=search&related_id=5656091)
 
 ## Goals
-[Goal](https://images.squarespace-cdn.com/content/v1/5760269145bf21440773e26c/1532517734122-G2XKNP3V3X2SG2CC9Z95/Goals.jpg?format=2500w)
+[Goal](https://www.flaticon.com/free-icon/goal_1534999?term=goals&related_id=1534999)
 
 ## Kanban-Board
 [Kanban-Board](https://www.ingenieur.de/wp-content/uploads/2019/01/Kanban-Board-illustriert_B74336643_bakhtiarzein-e1547564483745.jpg)

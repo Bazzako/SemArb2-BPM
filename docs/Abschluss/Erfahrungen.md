@@ -41,9 +41,18 @@ Ich konnte das Problem beheben, indem ich auf dem Aufruf-Aktivitäten* oder *Cal
 
 ![IError message](../../ressources/bilder/error_message2.png)
 
-
 - Ich musste für das Verwenden des BPMN im Container einige Symbole anpassen. So musste ich die *Aufruf-Aktivitäten* oder *Call-Activitiys* in herkömmliche *Tasks* anpassen. Beim Verwenden von *Call-Activitys* wird verlangt, dass ein externer Prozess aufgerufen wird. Das stimmt für den Prozess soweit auch, nur habe diese externe Prozesse nicht modellieren können, weil dies der Rahmen der Semesterarbeit gesprengt hätte. Leider musste ich auch die *MESSAGE INTERMEDIATE THROW EVENT'S* anpassen. Hier war ein ähnliches Problem. Camunda will bei diesem Aufgaben-Typ eine Nachricht versenden. Diese hätte ich z.B. mittels JavaScirpt konfigurieren können. Da ich aber noch nie mit JavaScript gearbeitet habe und die Zeit nicht gereicht hat mich einzuarbeiten, habe ich mich dafür entschieden die Symbole anzupassen und daraus ein *User Task* zu erstellen, was nicht falsch ist. Das Automatisieren des Mailprozess kann zu einem späteren Zeitpunkt noch umgesetzt werden.
 
 ## Azure Container Hosting
 
 Während der Semesterarbeit hatte ich auch externe Abhängigkeiten. Ich hatte mir als Ziel gesetzt, den Camunda-Container in einem Azure-Container zu hosten. Diesen wollte ich auf dem Tenant der ISAG betreiben. Als ich soweit war diese Einrichtung vorzunehmen, musste ich feststellen, dass mein Account keine Azure Subscription für den ISE Tenant hat. Da die zuständige Person zu dieser Zeit sehr ausgelastet war, musste ich einige Zeit warten, um dann schlussendlich den Container erfolgreich in Betrieb nehmen zu können.
+
+# Lessions Learned
+
+Ich hätte mich im Vorhinein mehr über Camunda informieren können. Dann hätte ich die Probleme, welche ich während der *Improve Phase* hatte, umgehen können. Ich habe die externe Abhängigkeit für das Aufsetzen des Azure Container vergessen und nicht als Risiko aufgelistet. Dies hatte zur Folge, dass ich eine kleine Verzögerung hatte. Ich war zum Glück dem Zeitplan voraus und hatte somit einen Puffer.
+
+# Reflexion der ganzen Semesterarbeit
+
+Rückblicken auf die erste Semesterarbeit, habe ich einige Fortschritte gemacht. Ich konnte wie geplant die Dokumentation auf Github Pages hosten, was mir viel Freude bereitet. Den Zeitplan habe ich dieses Mal besser umgesetzt und bin dadurch nie in Zeitnot geraten. Dadurch, dass ich in dieser Semesterarbeit etwas Technisches umsetzen konnte, war meine Motivation stetig präsent. Ich denke, dass ich die zukünftigen Semesterarbeiten auch wieder mit Github Pages hosten werde. 
+
+Ich finde, dass mir das Arbeiten mit der Qualitätsmanagement Methode *Lean Six Sigma* sehr gut gelungen ist und ich den internen Prozess *Garantiefall Reparatur* erfolgreich Aktualisierung und Visualisierung konnte.

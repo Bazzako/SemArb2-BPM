@@ -24,7 +24,7 @@ Anfangs hatte ich Probleme Github Pages für meine Semesterarbeit einzurichten u
 
 Das Erstellen des BPM im *Camunda Modeler* hat sehr gut funktioniert. Was dann jedoch problematisch wurde, war das Hochladen des modellierten BPMN auf den Camunda Container. Ich erhielt einige Fehlermeldungen, welche ich länger versucht habe zu lösen, leider ohne Erfolg. Dies hatte zur Folge, dass ich nicht weiter arbeiten konnte.
 
-1. Ich erhielt jedes Mal beim Öffnen vom *Camunda Modeler* folgende Fehlermeldung 
+- Ich erhielt jedes Mal beim Öffnen vom *Camunda Modeler* folgende Fehlermeldung 
 
 ```
 [C:\Users\dennis.buathong\OneDrive\Dokumente\Gitrepos\ITCNE23\2.Semster\BPM\BPMN\Reparaturfall_ISE\Grundgeruest.bpmn] unknown attribute <label> [ warning ]"
@@ -34,7 +34,7 @@ Ich konnte dann zusammen mit dem Fachexperten Thomas Kälin das Problem beheben.
 
 ![IError Label](../../ressources/bilder/error_label.png)
 
-3. Ich konnte das BPMN nicht auf den Container laden wegen diverser *MESSAGE INTERMEDIATE CATCH EVENT* errors (Zeile 39). Diese habe ich erhalten, weil im ich im Modeler vergessen habe für diese eine *Global message reference* zu definieren. Diese wird später verwendet, um über die REST-API Nachrichten an Camunda zu senden, damit der Prozess weiterlaufen kann [Messaging](3.4%20Improve.md#messaging). 
+- Ich konnte das BPMN nicht auf den Container laden wegen diverser *MESSAGE INTERMEDIATE CATCH EVENT* errors (Zeile 39). Diese habe ich erhalten, weil im ich im Modeler vergessen habe für diese eine *Global message reference* zu definieren. Diese wird später verwendet, um über die REST-API Nachrichten an Camunda zu senden, damit der Prozess weiterlaufen kann [Messaging](3.4%20Improve.md#messaging). 
 
 ![IError message](../../ressources/bilder/error_message.png)
 

@@ -38,6 +38,11 @@ Ich konnte dann zusammen mit dem Fachexperten Thomas Kälin das Problem beheben.
 
 ![IError message](../../ressources/bilder/error_message.png)
 
-Ich konnte das Problem beheben, indem ich auf dem *MESSAGE INTERMEDIATE CATCH EVENT* unter *Message -> Global message reference* einen Wert eingetragen habe. Wie vorhin beschrieben, ist dieser wichtig um dann die REST-API Abfrage durchführen zu können.
+Ich konnte das Problem beheben, indem ich auf dem Aufruf-Aktivitäten* oder *Call-Activitiys* unter *Message -> Global message reference* einen Wert eingetragen habe. Wie vorhin beschrieben, ist dieser wichtig um dann die REST-API Abfrage durchführen zu können.
 
 ![IError message](../../ressources/bilder/error_message2.png)
+
+
+- Ich musste für das Verwenden des BPMN im Container einige Symbole anpassen. So musste ich die *Aufruf-Aktivitäten* oder *Call-Activitiys* in herkömmliche *Tasks* anpassen. Beim Verwenden von *Call-Activitys* wird verlangt, dass ein externer Prozess aufgerufen wird. Das stimmt für den Prozess soweit auch, nur habe diese externe Prozesse nicht modellieren können, weil dies der Rahmen der Semesterarbeit gesprengt hätte. Leider musste ich auch die *MESSAGE INTERMEDIATE THROW EVENT'S* anpassen. Hier war ein ähnliches Problem. Camunda will bei diesem Aufgaben-Typ eine Nachricht versenden. Diese hätte ich z.B. mittels JavaScirpt konfigurieren können. Da ich aber noch nie mit JavaScript gearbeitet habe und die Zeit nicht gereicht hat mich einzuarbeiten, habe ich mich dafür entschieden die Symbole anzupassen und daraus ein *User Task* zu erstellen, was nicht falsch ist. Das Automatisieren des Mailprozess kann zu einem späteren Zeitpunkt noch umgesetzt werden.
+
+- Während der Semesterarbeit hatte ich auch externe Abhängigkeiten. Ich hatte mir als Ziel gesetzt, den Camunda-Container in einem Azure-Container zu hosten. Diesen wollte ich auf dem Tenant der ISAG betreiben. Als ich soweit war diese Einrichtung vorzunehmen, musste ich feststellen, dass mein Account keine Azure Subscription für den ISE Tenant hat. Da die zuständige Person zu dieser Zeit sehr ausgelastet war, musste ich einige Zeit warten, um dann schlussendlich den Container erfolgreich in Betrieb nehmen zu können.

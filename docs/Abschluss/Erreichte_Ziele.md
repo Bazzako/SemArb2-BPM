@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 6.1 Erreichte Ziele
+title: 5.1 Erreichte Ziele
 parent: 5. Abschluss
 nav_order: 3
 ---

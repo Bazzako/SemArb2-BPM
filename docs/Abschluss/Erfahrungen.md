@@ -46,4 +46,4 @@ Ich konnte das Problem beheben, indem ich auf dem Aufruf-Aktivitäten* oder *Cal
 
 ## Azure Container Hosting
 
-- Während der Semesterarbeit hatte ich auch externe Abhängigkeiten. Ich hatte mir als Ziel gesetzt, den Camunda-Container in einem Azure-Container zu hosten. Diesen wollte ich auf dem Tenant der ISAG betreiben. Als ich soweit war diese Einrichtung vorzunehmen, musste ich feststellen, dass mein Account keine Azure Subscription für den ISE Tenant hat. Da die zuständige Person zu dieser Zeit sehr ausgelastet war, musste ich einige Zeit warten, um dann schlussendlich den Container erfolgreich in Betrieb nehmen zu können.
+Während der Semesterarbeit hatte ich auch externe Abhängigkeiten. Ich hatte mir als Ziel gesetzt, den Camunda-Container in einem Azure-Container zu hosten. Diesen wollte ich auf dem Tenant der ISAG betreiben. Als ich soweit war diese Einrichtung vorzunehmen, musste ich feststellen, dass mein Account keine Azure Subscription für den ISE Tenant hat. Da die zuständige Person zu dieser Zeit sehr ausgelastet war, musste ich einige Zeit warten, um dann schlussendlich den Container erfolgreich in Betrieb nehmen zu können.

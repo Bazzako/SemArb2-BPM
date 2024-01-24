@@ -26,9 +26,8 @@ Das Erstellen des BPM im *Camunda Modeler* hat sehr gut funktioniert. Was dann j
 
 - Ich erhielt jedes Mal beim Öffnen vom *Camunda Modeler* folgende Fehlermeldung 
 
-```
-[C:\Users\dennis.buathong\OneDrive\Dokumente\Gitrepos\ITCNE23\2.Semster\BPM\BPMN\Reparaturfall_ISE\Grundgeruest.bpmn] unknown attribute <label> [ warning ]"
-```
+"C:\Users\dennis.buathong\OneDrive\Dokumente\Gitrepos\ITCNE23\2.Semster\BPM\BPMN\Reparaturfall_ISE\Grundgeruest.bpmn] unknown attribute <label> [ warning ]"
+
 
 Ich konnte dann zusammen mit dem Fachexperten Thomas Kälin das Problem beheben. Ich musste dazu das modellierte BPMN im XML Format anzeigen lassen und jeden "Label" Eintrag löschen.
 

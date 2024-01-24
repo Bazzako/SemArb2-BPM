@@ -5,9 +5,13 @@ parent: 6. Abschluss
 nav_order: 3
 ---
 
-# Welche Ziele mussten erreicht werden?
+# Wurden alle Ziele erreicht ?
 
-Um zu rekapitulieren welche Ziele zu erreichen waren, werde ich diese hier nochmals auflisten.
+![ISO9001](../../ressources/bilder/rsz_trophy.png)
+
+[Quelle](../Quellenverzeichnis/index.md#erreichte-ziele)
+
+Um zu rekapitulieren, welche Ziele zu erreichen waren, werde ich diese hier nochmals auflisten.
 
 1. Aktualisierung und Visualisierung bestehender Reparaturprozess (von der ISEAG)  
 1. Camunda in einer Container-Instanz in Azure betreiben  
@@ -15,3 +19,5 @@ Um zu rekapitulieren welche Ziele zu erreichen waren, werde ich diese hier nochm
 3. Formulare im Camunda erstellen  
 4. Weboberfläche für die Ausgabe der Variablenwert  
 5. Dokumentation über eine CI/CD Pipeline auf Github Pages hosten
+
+Alle diese Ziele konnten während der Semesterarbeit erreicht und dokumentiert werden.

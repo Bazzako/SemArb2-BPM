@@ -65,6 +65,12 @@ Im Quellenverzeichnis findet man die Quellen der genutzten Bilder und Quellen de
 ## Abschluss
 [Review](https://www.flaticon.com/free-icon/check_11510892?term=check&page=1&position=93&origin=search&related_id=11510892)
 
+### Erreichte-Ziele
+[Pokal](https://www.flaticon.com/free-icon/trophy_2617955?term=achieved&page=1&position=66&origin=search&related_id=2617955)
+
+### Erfahrungen
+[Erfahrungen](https://www.flaticon.com/free-icon/experience_9750936?term=experience&related_id=9750936)
+
 # Hilfsmittel
 
 ## Lean Six Sigma

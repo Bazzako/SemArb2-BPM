@@ -34,7 +34,7 @@ Ich konnte dann zusammen mit dem Fachexperten Thomas Kälin das Problem beheben.
 
 ![IError Label](../../ressources/bilder/error_label.png)
 
-- Ich konnte das BPMN nicht auf den Container laden wegen diverser *MESSAGE INTERMEDIATE CATCH EVENT* errors (Zeile 39). Diese habe ich erhalten, weil im ich im Modeler vergessen habe für diese eine *Global message reference* zu definieren. Diese wird später verwendet, um über die REST-API Nachrichten an Camunda zu senden, damit der Prozess weiterlaufen kann [Messaging](3.4%20Improve.md#messaging). 
+- Ich konnte das BPMN nicht auf den Container laden wegen diverser *MESSAGE INTERMEDIATE CATCH EVENT* errors (Zeile 39). Diese habe ich erhalten, weil im ich im Modeler vergessen habe für diese eine *Global message reference* zu definieren. Diese wird später verwendet, um über die REST-API Nachrichten an Camunda zu senden, damit der Prozess weiterlaufen kann [Messaging](../Hauptteil/3.4_Improve.md#messaging). 
 
 ![IError message](../../ressources/bilder/error_message.png)
 

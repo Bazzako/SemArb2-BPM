@@ -7,6 +7,7 @@ nav_order: 3
 
 # Wurden alle Ziele erreicht ?
 
+
 ![ISO9001](../../ressources/bilder/rsz_trophy.png)
 
 [Quelle](../Quellenverzeichnis/index.md#erreichte-ziele)

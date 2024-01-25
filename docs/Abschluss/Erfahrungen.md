@@ -55,8 +55,8 @@ Ich hätte mich im Vorhinein mehr über Camunda informieren können. Dann hätte
 
 Rückblicken auf die erste Semesterarbeit, habe ich einige Fortschritte gemacht. Ich konnte wie geplant die Dokumentation auf Github Pages hosten, was mir viel Freude bereitet. Den Zeitplan habe ich dieses Mal besser umgesetzt und bin dadurch nie in Zeitnot geraten. Dadurch, dass ich in dieser Semesterarbeit etwas Technisches umsetzen konnte, war meine Motivation stetig präsent. Ich denke, dass ich die zukünftigen Semesterarbeiten auch wieder mit Github Pages hosten werde. 
 
-Ich finde, dass mir das Arbeiten mit der Qualitätsmanagement Methode *Lean Six Sigma* sehr gut gelungen ist und ich den internen Prozess *Garantiefall Reparatur* erfolgreich Aktualisierung und Visualisierung konnte.
+Ich finde, dafür dass ich das erste Mal mit der Qualitätsmanagement Methode *Lean Six Sigma* gearbeitet habe, ist mir die Umsetzung sehr gut gelungen. Ich konnte den internen Prozess *Garantiefall Reparatur* erfolgreich Aktualisierung und Visualisierung.
 
 Das Arbeiten mit Camunda hat mir ebenfalls viel Freude bereitet und ich habe viel dazu gelernt. Ich werde aber die Umsetzung für die ISEAG vermutlich nochmals in Camunda 8 aufbauen, da Camunda 8 über mehr integrierte und automatisiert Tools verfügt.
 
-Grossen und Ganzenanzen war die 2. Semesterarbeit in meinen Augen ein Erfolg.
+Im Grossen und Ganzenanzen war die 2. Semesterarbeit in meinen Augen ein Erfolg.

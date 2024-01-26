@@ -11,7 +11,7 @@ Im Quellenverzeichnis findet man die Quellen der genutzten Bilder und Quellen de
 
 ![Luppe](../../ressources/bilder/rsz_loupe_2.png)
 
-[Quelle](#Quellenverzeichnis-Logo)
+[Quelle](#quellenverzeichnis-logo)
 
 # Bilder
 
@@ -22,16 +22,16 @@ Im Quellenverzeichnis findet man die Quellen der genutzten Bilder und Quellen de
 [First thinks first](https://www.flaticon.com/free-icon/idea_2436837?term=idea&page=1&position=37&origin=search&related_id=2436837)
 
 ## About
-[Ide_Symbol](https://www.flaticon.com/free-icon/implementation_5656091?term=process&page=2&position=3&origin=search&related_id=5656091)
+[Idee Symbol](https://www.flaticon.com/free-icon/implementation_5656091?term=process&page=2&position=3&origin=search&related_id=5656091)
 
 ## Goals
 [Goal](https://www.flaticon.com/free-icon/goal_1534999?term=goals&related_id=1534999)
 
 ## Kanban-Board
-[Kanban-Board](https://www.ingenieur.de/wp-content/uploads/2019/01/Kanban-Board-illustriert_B74336643_bakhtiarzein-e1547564483745.jpg)
+[Kanban Board](https://www.ingenieur.de/wp-content/uploads/2019/01/Kanban-Board-illustriert_B74336643_bakhtiarzein-e1547564483745.jpg)
 
 ## Scrum-Methode
-[Scrum-Methode](https://media.graphassets.com/j3ITgEIYTVmdAXePjpoR)
+[Scrum Methode](https://media.graphassets.com/j3ITgEIYTVmdAXePjpoR)
 
 ## Lean-Six-Sigma
 [Lean Six Sigma](https://www.georgiaruralhealth.org/wp-content/uploads/2022/01/lean-6-sigma.png)
@@ -44,6 +44,7 @@ Im Quellenverzeichnis findet man die Quellen der genutzten Bilder und Quellen de
 
 ### Define
 [Define](https://www.flaticon.com/free-icon/defining_4129401?term=define&related_id=4129401)
+
 ### Measure
 [Measure](https://www.flaticon.com/free-icon/design-process_10068780?term=measure+process&related_id=10068780)
 
@@ -63,7 +64,7 @@ Im Quellenverzeichnis findet man die Quellen der genutzten Bilder und Quellen de
 [Luppe](https://www.flaticon.com/free-icon/loupe_428094?term=magnifying+glass&page=1&position=9&origin=search&related_id=428094)
 
 ## Abschluss
-[Review](https://www.flaticon.com/free-icon/check_11510892?term=check&page=1&position=93&origin=search&related_id=11510892)
+[Abschluss](https://www.flaticon.com/free-icon/check_11510892?term=check&page=1&position=93&origin=search&related_id=11510892)
 
 ### Erreichte-Ziele
 [Pokal](https://www.flaticon.com/free-icon/trophy_2617955?term=achieved&page=1&position=66&origin=search&related_id=2617955)

@@ -18,7 +18,7 @@ In diesem Kapitel werde ich meine Semesterarbeit reflektieren.
 
 ## Github CI/CD Pipeline für Github Pages
 
-Anfangs hatte ich Probleme Github Pages für meine Semesterarbeit einzurichten und wusste nicht ganz wo anfangen. Ich wusste aber, dass Yves Wetter von meiner Klasse bereits damit gearbeitet hat und konnte ihn um Hilfe bitten. Was ich falsch gemacht habe, war das vorgesehen Repository in meines zu klonen, damit Github die benötigte Struktur erhält, um somit dann das Jeykill Template auf Github Pages hosten zu können.
+Anfangs hatte ich Probleme Github Pages für meine Semesterarbeit einzurichten und wusste nicht ganz wo anfangen. Ich wusste aber, dass Yves Wetter von meiner Klasse bereits damit gearbeitet hat und konnte ihn um Hilfe bitten. Was ich falsch gemacht habe, war das vorgesehen Repository, mit dem enthaltenen Jeykill-Template, in meines zu klonen, damit Github die Dateien erhält, um somit dann das Jeykill Template auf Github Pages bauen und hosten zu können.
 
 ## Camunda BPMN
 
@@ -26,7 +26,7 @@ Das Erstellen des BPM im *Camunda Modeler* hat sehr gut funktioniert. Was dann j
 
 - Ich erhielt jedes Mal beim Öffnen vom *Camunda Modeler* folgende Fehlermeldung 
 
-"C:\Users\dennis.buathong\OneDrive\Dokumente\Gitrepos\ITCNE23\2.Semster\BPM\BPMN\Reparaturfall_ISE\Grundgeruest.bpmn] unknown attribute <label> [ warning ]"
+"..\[Grundgeruest.bpmn] unknown attribute <label> [ warning ]"
 
 
 Ich konnte dann zusammen mit dem Fachexperten Thomas Kälin das Problem beheben. Ich musste dazu das modellierte BPMN im XML Format anzeigen lassen und jeden "Label" Eintrag löschen.
@@ -41,7 +41,7 @@ Ich konnte das Problem beheben, indem ich auf dem Aufruf-Aktivitäten* oder *Cal
 
 ![IError message](../../ressources/bilder/error_message2.png)
 
-- Ich musste für das Verwenden des BPMN im Container einige Symbole anpassen. So musste ich die *Aufruf-Aktivitäten* oder *Call-Activitiys* in herkömmliche *Tasks* anpassen. Beim Verwenden von *Call-Activitys* wird verlangt, dass ein externer Prozess aufgerufen wird. Das stimmt für den Prozess soweit auch, nur habe diese externe Prozesse nicht modellieren können, weil dies der Rahmen der Semesterarbeit gesprengt hätte. Leider musste ich auch die *MESSAGE INTERMEDIATE THROW EVENT'S* anpassen. Hier war ein ähnliches Problem. Camunda will bei diesem Aufgaben-Typ eine Nachricht versenden. Diese hätte ich z.B. mittels JavaScirpt konfigurieren können. Da ich aber noch nie mit JavaScript gearbeitet habe und die Zeit nicht gereicht hat mich einzuarbeiten, habe ich mich dafür entschieden die Symbole anzupassen und daraus ein *User Task* zu erstellen, was nicht falsch ist. Das Automatisieren des Mailprozess kann zu einem späteren Zeitpunkt noch umgesetzt werden.
+- Ich musste für das Verwenden des BPMN im Container einige Symbole anpassen. So musste ich die *Aufruf-Aktivitäten* oder *Call-Activitiys* in herkömmliche *Tasks* anpassen. Beim Verwenden von *Call-Activitys* wird verlangt, dass ein externer Prozess aufgerufen wird. Das stimmt für den Prozess soweit auch, nur habe diese externe Prozesse nicht modellieren können, weil dies der Rahmen der Semesterarbeit gesprengt hätte. Leider musste ich auch die *MESSAGE INTERMEDIATE THROW EVENT'S* anpassen. Hier war ein ähnliches Problem. Camunda will bei diesem Aufgaben-Typ eine Nachricht versenden. Diese hätte ich z.B. mittels JavaScript konfigurieren können. Da ich aber noch nie mit JavaScript gearbeitet habe und die Zeit nicht gereicht hat mich einzuarbeiten, habe ich mich dafür entschieden die Symbole anzupassen und daraus ein *User Task* zu erstellen, was nicht falsch ist. Das Automatisieren des Mailprozess kann zu einem späteren Zeitpunkt noch umgesetzt werden.
 
 ## Azure Container Hosting
 
